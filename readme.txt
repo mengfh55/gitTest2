@@ -6,4 +6,5 @@ modify git2
 modify git3
 modify git4 dev branch
 
-modify readme master
+modify readme master dev
+
